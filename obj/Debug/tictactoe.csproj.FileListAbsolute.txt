@@ -1,0 +1,20 @@
+C:\Users\IBA\Desktop\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\IBA\Desktop\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\IBA\Desktop\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\IBA\Desktop\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\IBA\Desktop\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\IBA\Desktop\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\IBA\Desktop\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\IBA\Desktop\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\IBA\Desktop\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\IBA\Desktop\tictactoe\obj\Debug\tictactoe.pdb
+F:\Semester V\Visual Programming\Lab\tictactoe\bin\Debug\tictactoe.exe.config
+F:\Semester V\Visual Programming\Lab\tictactoe\bin\Debug\tictactoe.exe
+F:\Semester V\Visual Programming\Lab\tictactoe\bin\Debug\tictactoe.pdb
+F:\Semester V\Visual Programming\Lab\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+F:\Semester V\Visual Programming\Lab\tictactoe\obj\Debug\tictactoe.Form1.resources
+F:\Semester V\Visual Programming\Lab\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+F:\Semester V\Visual Programming\Lab\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+F:\Semester V\Visual Programming\Lab\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+F:\Semester V\Visual Programming\Lab\tictactoe\obj\Debug\tictactoe.exe
+F:\Semester V\Visual Programming\Lab\tictactoe\obj\Debug\tictactoe.pdb
